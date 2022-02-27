@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(255, 229, 204);
+}
+button {
+  background-color: rgb(255, 59, 48);
+  color: black;
+  border-radius: 15px;
+  padding: 5px 10px;
+  font-size: 18px;
+  text-align: center;
+  border: none;
+  margin: 4px 5px;
+  cursor: pointer;
+}
